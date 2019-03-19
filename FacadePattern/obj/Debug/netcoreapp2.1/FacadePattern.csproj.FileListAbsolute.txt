@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\FacadePattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.pdb
